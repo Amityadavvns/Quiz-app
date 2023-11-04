@@ -1,2 +1,2 @@
-# SIMBT_03
+# Quiz 
 quiz app
